@@ -1,7 +1,8 @@
-# 👋 Hi, I'm Maroua
+# 👋 Hi, I'm Maroua  
 
-🎓 I'm a Master's student in **Intelligent and Mobile Systems**.  
-💻 Passionate about **web development**, **mobile apps**, and **artificial intelligence**.  
+🎓 Master’s student in Intelligent and Mobile Systems  
+💻 Passionate about Web & Android Development  
+🤖 Exploring Artificial Intelligence and Data Science  
 
 ---
 
@@ -44,12 +45,17 @@
 
 ---
 
-## 📈 About me
-- 🌍 Based in Morocco  
-- 🔍 Curious and always learning new technologies  
-- 💡 Love solving real-world problems with smart solutions  
+## 📊 GitHub Stats
+
+![Céline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=**TON_USERNAME_ICI**&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=**TON_USERNAME_ICI**&layout=compact&theme=tokyonight)
 
 ---
+
+## 📫 How to reach me
+📧 **rifimaroua4@gmail.com**  
+💼 [LinkedIn](https://linkedin.com/in/maroua-rifi-816b30361)
+
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maroua-rifi-816b30361)
