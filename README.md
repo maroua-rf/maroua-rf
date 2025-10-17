@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi, I'm Maroua 👋
+🎓 I'm a Master's student in "Intelligent and Mobile Systems".  
+💻 Passionate about "web development", "mobile apps", and "artificial intelligence".  
+  
 <!--
 **maroua-rf/maroua-rf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
