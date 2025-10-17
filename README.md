@@ -45,13 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Céline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=**maroua-rf**&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=**maroua-rf**&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect with me
 📧 **rifimaroua4@gmail.com**  
 💼 [LinkedIn](https://linkedin.com/in/maroua-rifi-816b30361)
