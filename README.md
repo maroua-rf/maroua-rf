@@ -47,19 +47,14 @@
 
 ## 📊 GitHub Stats
 
-![Céline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=**TON_USERNAME_ICI**&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=**TON_USERNAME_ICI**&layout=compact&theme=tokyonight)
+![Céline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=**maroua-rf**&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=**maroua-rf**&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 How to reach me
+## 📫 Connect with me
 📧 **rifimaroua4@gmail.com**  
 💼 [LinkedIn](https://linkedin.com/in/maroua-rifi-816b30361)
-
-
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maroua-rifi-816b30361)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rifimaroua4@gmail.com)
 
 ---
 
